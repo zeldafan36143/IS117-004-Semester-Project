@@ -1,0 +1,138 @@
+/*DEVELOPER: Adnaan Mansuri, IS117-004, Fall 2023 */
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: darkblue;
+    text-align: center;
+    padding-top: 10px;
+    margin: 0 auto;
+
+    font-size: 1rem;
+    background-image: linear-gradient(lightblue, aliceblue);
+}
+
+.contact-title {
+    text-align: center;
+    padding-top: 200px;
+    color: cadetblue;
+}
+
+.card_news {
+    padding-left: 25em;
+}
+
+.contact-text {
+    text-align: center;
+    color: cadetblue;
+}
+
+.text-center {
+    background-image: linear-gradient(lightskyblue, aliceblue);
+    padding: 10px;
+    margin-bottom: 5px;
+    width: 100%;
+    color: royalblue;
+    margin-top: 1.5px;
+}
+
+.center-text {
+    padding: 10px;
+    margin-bottom: 5px;
+    color: royalblue;
+    text-align: center;
+    font-size: 2em;
+}
+
+.card-text {
+
+    font-size: 1.25em;
+
+}
+
+.center-text2 {
+    padding: 10px;
+    margin-bottom: 5px;
+
+    color: black;
+
+    text-align: center;
+}
+
+.computer {
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+}
+
+
+.col {
+    width: 500px;
+    height: 50px;
+    border-radius: 35px;
+    padding-top: 30px;
+}
+
+.col-6 {
+    padding-top: 20px;
+    line-height: 200%;
+    border-style: solid;
+}
+
+.text-sm-start {
+    text-align: right;
+}
+
+.col-sm-4 {
+    text-align: center;
+    float: right;
+}
+
+
+.card-img-top {
+    width: auto;
+    border-radius: 30px;
+    padding: 25px;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+.center-assembly {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+.card {
+    border-style: solid;
+    border-color: mediumvioletred;
+    border-width: thick;
+    color: black;
+    background-color: aliceblue;
+    margin-bottom: 100px;
+}
+
+.card_build {
+    padding-left: 95px;
+    padding-bottom: 50px;
+    align-content: center;
+
+}
+
+.lh-lg {
+    font-size: 1.25em;
+}
+
+body {
+    background-color: lightseagreen;
+}
